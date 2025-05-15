@@ -1,4 +1,10 @@
-# shape_area_lib
+# shape_area_library
+
+![Python](https://img.shields.io/badge/python-3.7%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+
+# shape_area_library
 
 A Python library for calculating the area of geometric shapes like circles and triangles, including right-angled triangle detection.
 
